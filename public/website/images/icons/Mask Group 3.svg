@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_382" data-name="Rectangle 382" width="46" height="46" transform="translate(0.115 -0.31)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-0.115 0.31)" clip-path="url(#clip-path)">
+    <g id="smartphone" transform="translate(9.894)">
+      <g id="Group_875" data-name="Group 875" transform="translate(11.417 40.338)">
+        <g id="Group_874" data-name="Group 874">
+          <path id="Path_888" data-name="Path 888" d="M25.8,44.166h-1.89a.578.578,0,0,0-.578.578v.367a.578.578,0,0,0,.578.578H25.8a.578.578,0,0,0,.577-.578v-.367A.577.577,0,0,0,25.8,44.166Z" transform="translate(-23.333 -44.166)"/>
+        </g>
+      </g>
+      <g id="Group_877" data-name="Group 877" transform="translate(0)">
+        <g id="Group_876" data-name="Group 876">
+          <path id="Path_889" data-name="Path 889" d="M33.96,0H13.584a2.755,2.755,0,0,0-2.751,2.751V42.915a2.755,2.755,0,0,0,2.751,2.751H33.96a2.755,2.755,0,0,0,2.751-2.751V2.751A2.755,2.755,0,0,0,33.96,0ZM16.923,6.85H15.4V8.372a.761.761,0,0,1-1.522,0V6.089a.761.761,0,0,1,.761-.761h2.283a.761.761,0,0,1,0,1.522Zm9.894,34.433a2.1,2.1,0,0,1-2.1,2.1h-1.89a2.1,2.1,0,0,1-2.1-2.1v-.367a2.1,2.1,0,0,1,2.1-2.1h1.89a2.1,2.1,0,0,1,2.1,2.1Zm.761-36.716H19.967a.761.761,0,0,1,0-1.522h7.611a.761.761,0,0,1,0,1.522Zm6.089,33.488a.761.761,0,0,1-.761.761H30.623a.761.761,0,1,1,0-1.522h1.522V35.772a.761.761,0,0,1,1.522,0v2.283ZM32.906,4.567h-.761a.761.761,0,1,1,0-1.522h.761a.761.761,0,0,1,0,1.522Z" transform="translate(-10.833)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

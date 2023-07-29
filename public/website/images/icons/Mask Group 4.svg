@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_375" data-name="Rectangle 375" width="45" height="45" transform="translate(0.471 0.297)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-0.471 -0.297)" clip-path="url(#clip-path)">
+    <g id="smart-washing-machine" transform="translate(5.352)">
+      <path id="Path_890" data-name="Path 890" d="M24.1,40.882a9.454,9.454,0,1,0-9.454-9.454A9.465,9.465,0,0,0,24.1,40.882Zm0-16.233a6.779,6.779,0,1,1-6.779,6.779A6.786,6.786,0,0,1,24.1,24.648Z" transform="translate(-6.621 -1.904)" fill="#fff"/>
+      <path id="Path_891" data-name="Path 891" d="M24.611,36.038a4.1,4.1,0,1,0-4.1-4.1A4.108,4.108,0,0,0,24.611,36.038Z" transform="translate(-7.129 -2.412)" fill="#fff"/>
+      <path id="Path_892" data-name="Path 892" d="M5.859,46.936H40.823V14.648H5.859ZM23.341,18.662a12.13,12.13,0,1,1-12.13,12.13A12.144,12.144,0,0,1,23.341,18.662Z" transform="translate(-5.859 -1.269)" fill="#fff"/>
+      <path id="Path_893" data-name="Path 893" d="M31.135,0H17.578V10.7H31.135ZM28.46,6.689H20.254V4.014H28.46Z" transform="translate(-6.875)" fill="#fff"/>
+      <rect id="Rectangle_383" data-name="Rectangle 383" width="8.027" height="10.703" transform="translate(0)" fill="#fff"/>
+      <rect id="Rectangle_384" data-name="Rectangle 384" width="8.027" height="10.703" transform="translate(26.936)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

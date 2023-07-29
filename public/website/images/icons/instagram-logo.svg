@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.987" height="36.987" viewBox="0 0 36.987 36.987">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="36.987" height="36.987" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="instagram-logo" clip-path="url(#clip-path)">
+    <g id="Group_76" data-name="Group 76">
+      <g id="Group_75" data-name="Group 75">
+        <path id="Path_172" data-name="Path 172" d="M23.558,27.261a3.7,3.7,0,1,0-3.7-3.7A3.708,3.708,0,0,0,23.558,27.261Z" transform="translate(-5.065 -5.065)" fill="#fff"/>
+        <path id="Path_173" data-name="Path 173" d="M34.457,17.525V13.96h-.464l-3.1.01.012,3.566Z" transform="translate(-7.88 -3.561)" fill="#fff"/>
+        <path id="Path_174" data-name="Path 174" d="M18.493,0A18.493,18.493,0,1,0,36.987,18.493,18.515,18.515,0,0,0,18.493,0ZM29.011,16.335v8.611a4.069,4.069,0,0,1-4.065,4.066H12.041a4.069,4.069,0,0,1-4.065-4.066V12.042a4.069,4.069,0,0,1,4.065-4.065h12.9a4.069,4.069,0,0,1,4.066,4.065Z" fill="#fff"/>
+        <path id="Path_175" data-name="Path 175" d="M27.679,24.087A5.753,5.753,0,1,1,16.6,21.929h-3.14V30.54a2.015,2.015,0,0,0,2.016,2.014h12.9a2.016,2.016,0,0,0,2.016-2.014V21.929H27.251A5.674,5.674,0,0,1,27.679,24.087Z" transform="translate(-3.433 -5.594)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_377" data-name="Rectangle 377" width="46" height="46" transform="translate(-0.207 -0.097)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(0.207 0.097)" clip-path="url(#clip-path)">
+    <g id="baby-chair" transform="translate(8.117)">
+      <path id="Path_896" data-name="Path 896" d="M10.225,20.1H36.983A1.338,1.338,0,0,0,38.32,18.76V17.422a2.676,2.676,0,0,0-2.676-2.676H11.563a2.676,2.676,0,0,0-2.676,2.676V18.76A1.338,1.338,0,0,0,10.225,20.1Z" transform="translate(-8.887 -1.278)" fill="#fff"/>
+      <path id="Path_897" data-name="Path 897" d="M33.477,6.689A6.7,6.7,0,0,0,26.787,0H21.436a6.7,6.7,0,0,0-6.689,6.689v4.1h18.73Z" transform="translate(-9.395)" fill="#fff"/>
+      <path id="Path_898" data-name="Path 898" d="M16.627,28.819a4.009,4.009,0,0,0,3.807,2.744H22.52V23.535H14.335L11.824,46.221a1.338,1.338,0,0,0,2.66.3l.76-6.926H32.471l.76,6.926a1.338,1.338,0,0,0,1.329,1.19,1.431,1.431,0,0,0,.149-.008,1.339,1.339,0,0,0,1.182-1.478L33.38,23.535H25.2v8.027h2.085a4.009,4.009,0,0,0,3.807-2.744l.14-.418.946,8.513H15.541l.946-8.515Z" transform="translate(-9.141 -2.04)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
